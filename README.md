@@ -17,3 +17,21 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 
 - :muscle: In my free time, I enjoy playing sports, hanging out with friends and listening to music.
 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+### 📞 How to reach me
+<div>
+  <a href="[https://www.linkedin.com/in/your-linkedin-url](https://www.linkedin.com/in/claudiu-dascalu/)" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>&nbsp;
+  
+  <a href="mailto:claudiucris2002@gmail.com">
+   <img src="https://cdn-icons-png.flaticon.com/512/281/281764.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</div>
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
