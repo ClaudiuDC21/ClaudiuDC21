@@ -69,7 +69,7 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 &nbsp; 
 &nbsp;
 
-###🗄️ Databases
+### 🗄️ Databases
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL" alt="Microsoft SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
