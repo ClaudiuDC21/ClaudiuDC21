@@ -32,9 +32,13 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
   </a>
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+&nbsp; 
+&nbsp; 
+&nbsp; 
 
-## 🌐 Frontend
+## :hammer_and_wrench: Languages and Tools :
+
+### 🌐 Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -49,7 +53,7 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 &nbsp; 
 &nbsp; 
 
-## 💻 Backend
+### 💻 Backend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <!--
@@ -65,7 +69,7 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 &nbsp; 
 &nbsp;
 
-## 🗄️ Databases
+###🗄️ Databases
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL" alt="Microsoft SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
@@ -75,7 +79,7 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 &nbsp; 
 &nbsp;
 
-## 🛠️ Others
+### 🛠️ Others
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
