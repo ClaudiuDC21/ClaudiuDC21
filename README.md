@@ -101,6 +101,7 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ClaudiuDC21's GitHub Stats" height="200"  />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ClaudiuDC21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200"/>
 
 &nbsp; 
 &nbsp; 
@@ -108,7 +109,3 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 
 <img src="https://komarev.com/ghpvc/?username=ClaudiuDC21&style=flat-square&color=blue" alt=""/>&nbsp;
 </div>
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
