@@ -97,11 +97,11 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ClaudiuDC21's GitHub Stats" height="200"  />
+<img src="https://github-readme-stats.vercel.app/api?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ClaudiuDC21's GitHub Stats" height="200"  />&nbsp; 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ClaudiuDC21's GitHub Stats" height="200"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ClaudiuDC21's GitHub Stats" height="200"  />&nbsp; 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ClaudiuDC21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ClaudiuDC21&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="200"/>&nbsp; 
 
 &nbsp; 
 &nbsp; 
