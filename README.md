@@ -93,8 +93,19 @@ My name is **Dascălu Claudiu-Cristian** and I am a **Full Stack Web Developer**
 &nbsp; 
 &nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=ClaudiuDC21&style=flat-square&color=blue" alt=""/>
+### :fire: My Stats :
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ClaudiuDC21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="ClaudiuDC21's GitHub Stats" height="200"  />
+
+
+&nbsp; 
+&nbsp; 
+
+
+<img src="https://komarev.com/ghpvc/?username=ClaudiuDC21&style=flat-square&color=blue" alt=""/>&nbsp;
+</div>
 
 &nbsp; 
 &nbsp; 
